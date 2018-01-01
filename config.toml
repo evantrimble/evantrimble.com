@@ -4,12 +4,12 @@ title = "evantrimble"
 newContentEditor = "atom"
 theme = "ananke"
 pygmentsStyle = "native"
-publishDir = "/var/www/evantrimble.com/html"
+publishDir = "public"
 
 MetaDataFormat = "toml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = "https://www.facebook.com/evantrimble"
   twitter = "https://twitter.com/evantrimble"
   instagram = "https://www.instagram.com/gyurme/"
