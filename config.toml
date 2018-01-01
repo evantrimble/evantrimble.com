@@ -2,7 +2,7 @@ baseURL = "http://evantrimble.com"
 languageCode = "en-us"
 title = "evantrimble"
 newContentEditor = "atom"
-theme = "gohugo-themes-ananke"
+theme = "gohugo-theme-ananke"
 pygmentsStyle = "native"
 publishDir = "public"
 
