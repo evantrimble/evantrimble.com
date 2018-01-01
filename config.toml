@@ -6,7 +6,7 @@ theme = "ananke"
 pygmentsStyle = "native"
 publishDir = "/var/www/evantrimble.com/html"
 
-MetaDataFormat = "yaml"
+MetaDataFormat = "toml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
