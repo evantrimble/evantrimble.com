@@ -1,7 +1,9 @@
 baseURL = "http://evantrimble.com"
 languageCode = "en-us"
 title = "evantrimble"
+newContentEditor = "atom"
 theme = "ananke"
+pygmentsStyle = "native"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
